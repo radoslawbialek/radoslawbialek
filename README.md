@@ -1,6 +1,6 @@
 ## Hi! 
 
-My name is Radosław Białek, and I'm a Java & Kotlin Android developer from Poland, who is available for hiring.
+My name is Radosław Białek, and I'm a Java & Kotlin Android developer from Poland. I create applications for the glory of God and the benefit of people.
 
 I have released 4 Android apps in Google Play (available in English and Polish):
 * [Book of Life](https://play.google.com/store/apps/details?id=pl.radoslawbialek.ksiegazycia)

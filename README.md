@@ -12,4 +12,6 @@ The above apps are closed-source at the moment, and this GitHub account I use ma
 
 But besides mobile development, I also like JavaScript and under this respect I created Divine Consolation as a simplified web app which is available at [DivineConsolation.com](https://divineconsolation.com/).
 
+My another website is [PrawdziwaWiara.pl](https://prawdziwawiara.pl/) (in Polish only) which in simple form describes the current apostasy in Vatican which started with John XXIII becoming an Anti-Pope in 1958 and the Second Vatican Council held in 1962-1965. Francis in not a true Pope, but a modernist heretic. For more information in English, I recommend [VaticanCatholic.com](https://vaticancatholic.com/).
+
 Thanks for your visit!

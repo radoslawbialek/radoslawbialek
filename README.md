@@ -2,13 +2,14 @@
 
 My name is Radosław Białek, and I'm a Java & Kotlin Android developer from Poland. I create Catholic applications for the glory of God and the benefit of people.
 
-I have released 6 Android apps in Google Play (available in English and Polish):
+I have released 7 free Android apps in Google Play (available in English and Polish):
 * [Book of Life](https://play.google.com/store/apps/details?id=pl.radoslawbialek.ksiegazycia)
 * [Glory for Ever](https://play.google.com/store/apps/details?id=pl.radoslawbialek.chwalanawieki)
 * [Divine Consolation](https://play.google.com/store/apps/details?id=pl.radoslawbialek.boskiepocieszenie)
 * [Jesus Mary Joseph](https://play.google.com/store/apps/details?id=pl.radoslawbialek.jezusmaryjajozef)
 * [Golden Chain](https://play.google.com/store/apps/details?id=pl.radoslawbialek.zlotylancuch)
 * [Celestial Harmony](https://play.google.com/store/apps/details?id=pl.radoslawbialek.niebianskaharmonia)
+* [All Unto Good](https://play.google.com/store/apps/details?id=pl.radoslawbialek.wszystkokudobremu)
 
 My applications are closed-source and I don’t plan to change it. This GitHub account I use mainly for having some tutorial-based apps for my reference. 
 

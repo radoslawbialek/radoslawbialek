@@ -1,8 +1,6 @@
 ## Hi! 
 
-My name is Radosław Białek, and I'm a Java & Kotlin Android developer from Poland. I create Catholic applications for the glory of God and the benefit of people.
-
-I have released 7 free Android apps in Google Play (available in English and Polish):
+My name is Radosław Białek, and I'm a Java & Kotlin Android developer from Poland. I create Catholic applications for the glory of God and the benefit of people. Since 2021, I have released 8 free Android apps in Google Play (available in English and Polish), which I am constantly working on:
 * [Book of Life](https://play.google.com/store/apps/details?id=pl.radoslawbialek.ksiegazycia)
 * [Glory for Ever](https://play.google.com/store/apps/details?id=pl.radoslawbialek.chwalanawieki)
 * [Divine Consolation](https://play.google.com/store/apps/details?id=pl.radoslawbialek.boskiepocieszenie)
@@ -10,11 +8,8 @@ I have released 7 free Android apps in Google Play (available in English and Pol
 * [Golden Chain](https://play.google.com/store/apps/details?id=pl.radoslawbialek.zlotylancuch)
 * [Celestial Harmony](https://play.google.com/store/apps/details?id=pl.radoslawbialek.niebianskaharmonia)
 * [All Unto Good](https://play.google.com/store/apps/details?id=pl.radoslawbialek.wszystkokudobremu)
+* [Kingdom of God](https://play.google.com/store/apps/details?id=pl.radoslawbialek.krolestwoboze)
 
-My applications are closed-source and I don’t plan to change it. This GitHub account I use mainly for having some tutorial-based apps for my reference. 
-
-But besides mobile development, I also like JavaScript and under this respect I created Divine Consolation as a simplified web app which is available at [DivineConsolation.com](https://divineconsolation.com/).
-
-My another website is [PrawdziwaKatolickaWiara.pl](https://prawdziwakatolickawiara.pl/) (in Polish only) which in simple words describes the current apostasy that is happening in Vatican, and which started with John XXIII and the Second Vatican Council held in 1962-1965. Francis in not a true Pope, but a modernist heretic. For more information in English, I recommend [VaticanCatholic.com](https://vaticancatholic.com/).
+I believe that we are living in the last days of the Great Apostasy. The modernist heretics, condemned by Pope St. Pius X in his 1907 *Pascendi* encyclical letter, have taken over the external structures of the Catholic Church since the election of Antipope John XXIII in 1958 and the Second Vatican Council in 1962-1965. The modernists deny the dogma Outside the Church There is No Salvation, and promote false ecumenism, religious liberty, and even sodomy. For more information in English, I recommend [VaticanCatholic.com](https://vaticancatholic.com/).
 
 Thank you for your visit!
